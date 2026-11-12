@@ -3,17 +3,14 @@
 <resources>
     <color name="control_button_color">#4CC4C4C4</color>
     <color name="control_button_pressed_color">#4D000000</color>
-
     <color name="minebutton_color">#A855F7</color>
     <color name="background_app">#0B0912</color>
     <color name="divider">#30243F</color>
     <color name="background_overlay">#30243F</color>
     <color name="background_status_bar">#100D19</color>
     <color name="background_bottom_bar">#171221</color>
-
     <color name="primary_text">#FFFFFF</color>
     <color name="secondary_text">#C5B8D6</color>
-
     <color name="moj_purple">#A855F7</color>
     <color name="moj_dark">#0B0912</color>
     <color name="moj_card">#171221</color>
